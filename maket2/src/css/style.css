@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma;
+}
+
+h1 {
+	color: #333333;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 70px;
+}
+
+.container-img {
+	margin-top: 82px;
+	text-align: center;
+}
+
+.container-descr {
+	color: #333333;
+	font-size: 16px;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.container {
+	margin-bottom: 97px;
+}
